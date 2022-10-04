@@ -2,7 +2,6 @@
 
 ## Deployed link to application
 
-https://kboksa.github.io/note-taker/
 https://catnotes.herokuapp.com/notes
 
 ## Description
